@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+   background-color: black;
+   height: 100px; 
+}
+header img{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+}
+.div1{
+    float: right;
+    margin-top: 40px;
+    margin-right: 40px;
+}
+.div1 a{
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    margin-right: 15px;
+    padding: 15px;
+}
+.login{
+    float: right;
+    margin-top: 25px;
+    padding-bottom: 10px;
+    border: 1px solid;
+    background-color: black;
+    margin-right: 25px;
+    padding: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    /* text-align: center; */
+}
+/* #login{
+    color: black;
+    background-color: white;
+    text-align: center;
+} */
+
+.div2{
+    background-image: url("../images/food.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px;
+    color: whitesmoke;
+    font-size: larger;
+}
+
+.div2 ul{
+    padding: 30px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    list-style-type: square;
+
+}
+/* .div2 form{
+    float: right;
+    margin-top: 5px;
+    padding-bottom: 10px;
+    border: 1px solid;
+    background-color: black;
+    margin-right: 25px;
+    padding: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+} */
+
+.div3{
+
+    background-color: rgb(17, 17, 2);
+    display: flex ;
+    background-size: cover;
+    
+    color: whitesmoke;
+
+}
+.div4{
+    border: 1px solid white;
+    background-color: black;
+    margin-right: 15px;
+    padding: 15px;
+    padding-right:2px ;
+    width: 33%;
+    margin-right: 0cm;
+    border-radius: 9px;
+}
+.div5{
+    border: 1px solid white;
+    background-color:black;
+    margin-right: 15px;
+    padding: 15px;
+    padding-right:2px ;
+    width: 33%;
+    margin-right: 0cm;
+    border-radius: 9px;
+}
+.div6{
+    border: 1px solid white;
+    background-color:  black;
+    margin-right: 15px;
+    padding: 15px;
+    width: 33%;
+    padding-right: 2px;
+    flex-wrap: wrap;
+    margin-right: 0cm;
+    border-radius: 9px;
+}
+
