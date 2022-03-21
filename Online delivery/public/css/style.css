@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: dimgray;
+    height: 100px;
+}
+header img{
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+}
+.div1{
+    float: right;
+    margin-top: 40px;
+    margin-right: 40px;
+}
+.div1 a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 20px;
+    font-size: large;
+}
+.div2{
+    background-image: url("../images/bg.jpg");
+    text-align: center;
+    color: black;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#submit{
+    background-color: black;
+    color: white;
+    padding: 2px;
+    font-family: sans-serif;
+    font-size: large;
+}
+.div3{
+    background-color: bisque;
+    column-gap: 25px;
+    width: 100%;
+    float: right;
+    height: 600px;     
+}
+#h{
+    text-align: center;  
+}
+.div4{
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: fit-content;
+    text-align: left;
+    border-radius: 30px;
+    float: right;
+    width: 32%;
+    height: 400px;
+    padding: 5PX;
+    
+}
+.div5{
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: fit-content;
+    text-align: left;
+    border-radius: 30px;
+    float: right;
+    width: 32%;
+    height: 400px;
+}
+.div6{
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: fit-content;
+    text-align: left;
+    border-radius: 30px;
+    float: right;
+    width: 32%;
+    height: 400px;
+}
+.div7{
+    
+    background-color:cadetblue;
+    background-size: cover;
+    text-align: center;
+    padding: 90px;
+    border-image: round;
+    
+}
+.form{
+    padding: 50px;
+    background-image: url('../images/iimg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    text-align: center; 
+    background-color: darkgrey;
+    height: 400px;
+   
+}
+
+#center{
+    text-align: center;
+}
+#f{
+    width: 200px;
+}
+#message{
+    width: 200px;
+    
+}
